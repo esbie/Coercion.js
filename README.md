@@ -29,6 +29,7 @@ I know, I know, but it's the only thing JavaScript provides to help us Get It Ri
 
 #### Give me more examples
 Check out the test suite, it's pretty self explanatory. Here's a snippet:
+
 ```js
 it('handles 1 reqd, 1 opt, 1 reqd', function(){
   this.coerced = coercion([
