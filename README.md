@@ -1,5 +1,4 @@
 # Coercion.js
-##### A JavaScript mini-lib that handles optional arguments with panache.
 
 #### Sometimes optional arguments just need a hug:
 ```js
